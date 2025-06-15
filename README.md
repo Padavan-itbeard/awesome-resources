@@ -1,4 +1,4 @@
-# 🌟 Awesome Resources
+# 🌟 Awesome Resources [На русском](./README.ru.md)
 
 A curated collection of useful development materials, coding tasks, and learning resources.  
 This repo helps keep track of valuable content for study, interview prep, and day-to-day work.
