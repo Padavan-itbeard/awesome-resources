@@ -67,6 +67,7 @@ git checkout -b feature/add-new-resources
 git add .
 git commit -m "add: new JavaScript tutorials to learning-materials"
 </pre>
+- use conditionals for this docs [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 5. **Push** the branch to your fork:
 
