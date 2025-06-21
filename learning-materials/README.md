@@ -2,6 +2,7 @@
 
 Educational content: tutorials, books, courses, and articles across different domains (frontend, backend, DevOps, etc.).
 
+
 [Type conversions](https://codyfet.github.io/type-conversions/) - Тренажёр для изучения javascript преобразований
 
 [Git How To](https://githowto.com/ru) - Курс обучения Git на русском
@@ -15,13 +16,13 @@ Educational content: tutorials, books, courses, and articles across different do
 
 ##### Coding Games & Challenges
 
-[Coding Games](https://www.educative.io/games) - 
+[Coding Games](https://www.educative.io/games) - Interactive coding games & new coding challenge every day
 
-[checkio.org](https://js.checkio.org/)
+[checkio.org](https://js.checkio.org/) - Coding challenges and exercises with solutions for beginners and advanced
 
-[hackerrank.com](https://www.hackerrank.com/)
+[hackerrank.com](https://www.hackerrank.com/) - Coding challenges and technical interview preparation
 
-[codeforces.com](https://codeforces.com/)
+[codeforces.com](https://codeforces.com/) - Сompetitive programming platform and online community
 
 
 ### Roadmaps
