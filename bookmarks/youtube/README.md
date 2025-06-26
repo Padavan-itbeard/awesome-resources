@@ -8,4 +8,4 @@
 ## Front-end
 
 - [senior_zone](https://www.youtube.com/@senior_zone) Технологии, roadmap, и тп.
-- [Lydia Hallie](https://www.youtube.com/@theavocoder/videos) Визуализация Event Loop, замыканий и тп. (Видео на английском)
+- [Lydia Hallie](https://www.youtube.com/@theavocoder) Визуализация Event Loop, замыканий и тп. (Видео на английском)
